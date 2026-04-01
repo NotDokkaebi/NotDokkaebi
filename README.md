@@ -28,12 +28,20 @@ My goals include refining my skills and finding employment within Japan, prefera
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    
+    <img src="https://img.shields.io/badge/Windows_Event_Logs-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 </div>
 
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    
+</div>
+
+### Platforms
+<div>
+    <img src="https://img.shields.io/badge/Ubuntu_Linux-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
     
 </div>
 
@@ -65,3 +73,4 @@ My goals include refining my skills and finding employment within Japan, prefera
 </div>
 
 ## Projects
+[![Detection Lab](https://img.shields.io/badge/Detection%20Lab-View%20Project-blue)](https://github.com/NotDokkaebi/Detection-Lab)
