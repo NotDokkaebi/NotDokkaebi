@@ -11,8 +11,8 @@ My goals include refining my skills and finding employment within Japan, prefera
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="hhttps://github.com/NotDokkaebi/Detection-Lab)">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/NotDokkaebi/Detection-Lab)">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | [![Detection Lab](https://img.shields.io/badge/Detection%20Lab-View%20Project-blue)](https://github.com/NotDokkaebi/Detection-Lab)
+| Network Traffic Monitoring and Attack Detection | [![Detection Lab](https://img.shields.io/badge/Detection%20Lab-View%20Project-blue)](https://github.com/NotDokkaebi/Detection-Lab)
 
 ## Tools
 
